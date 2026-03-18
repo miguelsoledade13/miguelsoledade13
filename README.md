@@ -86,6 +86,7 @@ Este curso possui foco introdutório/intermediário, oferecendo uma base sólida
 - 📧 Email: miguelmunhenhomgl@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/miguel-soledade-delurdes-1266693b0/
 
+
  🎧 Interesses pessoais
 
 Quando não estou estudando ou praticando tecnologia, gosto de ouvir música. Minhas bandas favoritas são:
