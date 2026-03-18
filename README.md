@@ -17,7 +17,7 @@ Tenho experiência inicial com:
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=miguelsoledade13&color=blue" />
 
  🎓 Formação - Microcamp Informática
 
