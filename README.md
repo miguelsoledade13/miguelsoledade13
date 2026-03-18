@@ -1,7 +1,7 @@
 onde eu coloco nesse código: <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=683086&height=180&section=header&text=Miguel+Soledade&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
   Olá, eu sou Miguel Soledade Delurdes
 
-> "The true strength lies in constantly evolving." 🌀  
+> “Para alcançar o céu, é preciso confiar no destino… e aceitar tudo o que ele traz.” 🌀  
 > *(Inspirado em JoJo’s Bizarre Adventure)*
 
   Sobre mim
