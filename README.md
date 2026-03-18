@@ -17,6 +17,8 @@ Tenho experiência inicial com:
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" />
+
  🎓 Formação - Microcamp Informática
 
 Concluí um curso completo de informática na **Microcamp**, onde adquiri uma base sólida em diversas áreas da tecnologia:
