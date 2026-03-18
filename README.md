@@ -86,6 +86,15 @@ Este curso possui foco introdutório/intermediário, oferecendo uma base sólida
 - 📧 Email: miguelmunhenhomgl@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/miguel-soledade-delurdes-1266693b0/
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 
  🎧 Interesses pessoais
 
