@@ -1,4 +1,4 @@
-onde eu coloco nesse código: <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=683086&height=180&section=header&text=Miguel+Soledade&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=683086&height=180&section=header&text=Miguel+Soledade&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
   Olá, eu sou Miguel Soledade Delurdes
 <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+em+formação;Sempre+aprendendo" />
 > “Para alcançar o céu, é preciso confiar no destino… e aceitar tudo o que ele traz.” 🌀  
@@ -102,10 +102,13 @@ Este curso possui foco introdutório/intermediário, oferecendo uma base sólida
 
 Quando não estou estudando ou praticando tecnologia, gosto de ouvir música. Minhas bandas favoritas são:
 
-- 🎸 Queen  
-- 🎸 Nirvana  
-- 🎸 Charlie Brown Jr  
-- 🎸 Guns N' Roses  
+-  Deftones
+-  RadioHead
+-  The smiths
+-  Queen  
+-  Nirvana  
+-  Charlie Brown Jr  
+-  Guns N' Roses  
 
 ---
 
